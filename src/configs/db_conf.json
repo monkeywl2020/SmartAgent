@@ -1,0 +1,12 @@
+{
+    "mysql_host": "172.21.58.75",
+    "mysql_port": 3306,
+    "mysql_user": "muwaagent",
+    "mysql_pwd": "NuwaAgent20250225!",
+    "mysql_database": "nuwa_agent_db",
+    "redis_host": "172.21.58.75",
+    "redis_port": 6379,
+    "redis_pwd": "",
+    "milvus_host": "172.21.58.75",
+    "milvus_port": 19530
+}

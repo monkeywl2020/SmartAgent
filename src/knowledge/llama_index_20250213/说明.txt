@@ -1,0 +1,10 @@
+Name: llama-index
+Version: 0.12.17
+
+里面的改动是基于 0.12.17 版本的改动
+
+# 安装 readers
+pip install llama-index-readers-file -i https://pypi.tuna.tsinghua.edu.cn/simple/ 
+
+# 自定义pdf中需要解析pdf的工具，需要安装
+pip install PyMuPDF  -i https://pypi.tuna.tsinghua.edu.cn/simple/ 
